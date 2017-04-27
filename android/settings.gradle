@@ -1,0 +1,3 @@
+rootProject.name = 'wkwebview_test'
+
+include ':app'
